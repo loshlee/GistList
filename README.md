@@ -12,3 +12,9 @@ ___
 Sort and cat VOBs to desktop.scpt
 
 https://gist.github.com/loshlee/59936434a6f47996ef5c445ca1443a62
+
+___
+Make Executable or "Un-executable".scpt
+
+https://gist.github.com/loshlee/30329f0d7f2ab151efed53365db6ccae
+
