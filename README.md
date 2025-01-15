@@ -27,3 +27,9 @@ https://gist.github.com/loshlee/5740427
 Mac AppleScript sources for passing options to and executing 'two-pass-transcode.rb' by Lisa Melton
 
 https://gist.github.com/loshlee/32c9aca2fa45e241c652fc810772bca1
+
+
+---
+DVDBackup Applescript
+
+https://gist.github.com/loshlee/b1f22bf859c40dc95bde9c411aec370f
