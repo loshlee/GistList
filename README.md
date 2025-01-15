@@ -18,3 +18,7 @@ Make Executable or "Un-executable".scpt
 
 https://gist.github.com/loshlee/30329f0d7f2ab151efed53365db6ccae
 
+___
+Slate Manager
+
+https://gist.github.com/loshlee/5740427
