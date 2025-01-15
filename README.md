@@ -8,6 +8,11 @@ Desktop Wrap using Pashua.scpt
 
 https://gist.github.com/loshlee/ccdf495009575d1f4d97c1756805f40d
 
+---
+MediaInfoDrop AppleScript
+
+https://gist.github.com/loshlee/367bd1964efd16e16e46bbffebce8c9a
+
 ___
 Sort and cat VOBs to desktop.scpt
 
