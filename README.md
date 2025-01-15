@@ -11,7 +11,7 @@ https://gist.github.com/loshlee/ccdf495009575d1f4d97c1756805f40d
 ---
 MediaInfoDrop AppleScript
 
-https://gist.github.com/loshlee/367bd1964efd16e16e46bbffebce8c9a
+https://gist.github.com/loshlee/1fa59a5efbf1db770fbb61f1e6034769
 
 ___
 Sort and cat VOBs to desktop.scpt
